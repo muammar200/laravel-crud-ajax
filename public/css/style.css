@@ -1,0 +1,18 @@
+/* #employees_table td {
+    text-align: left;
+    } */
+
+    .invalid-feedback {
+        display: block;
+        color: red;
+    }
+
+    .editIcon, .deleteIcon{
+        cursor: pointer;
+    }
+
+    .editIcon:hover, .deleteIcon:hover{
+        color: #dadbdc;
+    }
+
+    
